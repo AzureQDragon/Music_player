@@ -1,0 +1,5 @@
+The Moldau,Bedrich Smetana,N/A,Moldau.png,Smetana_Moldau.mp3
+Piano Sonata No. 14,Ludwig van Beethoven,N/A,MoonLightSonata.png,MoonLightSonata.mp3
+Also Sprach Zarathustra,Richard Strauss,N/A,Also_Sprach_Zarathustra.png,Also_Sprach_Zarathustra.mp3
+Liebesleid (Love's Sorrow) Rachmaninoff Variation,Fritz Kreisler,N/A,Liebesleid.png,Liebesleid.mp3
+The Blue Danube Waltz,Johann Strauss II,N/A,Blue_Danube_Waltz.png,The_Blue_Danube_Waltz.mp3
