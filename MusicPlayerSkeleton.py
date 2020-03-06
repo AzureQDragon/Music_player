@@ -8,7 +8,7 @@ from tkinter import *
 from PIL import ImageTk, Image
 from tkinter import ttk
 
-#Initialize global linked List
+# Initialize global linked List
 class LinkedListNode:
     
     def __init__(self, myPrev, myData, myNext):
@@ -17,7 +17,8 @@ class LinkedListNode:
         self.next = myNext
         self.prev = myPrev
         return
-        
+
+# Initialize Music class
 class Music:
     def __init__(self, song, artist, album, album_cover, file):
         self.song = song # Song name
