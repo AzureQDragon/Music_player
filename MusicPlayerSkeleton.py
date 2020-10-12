@@ -1,6 +1,5 @@
 #Music Player
 #3/6/20
-#Daniel Moon
 #Music Player that can load in files from a text file and play them
 
 import pygame
